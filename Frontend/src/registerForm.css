@@ -1,0 +1,20 @@
+.tittle{
+    text-align: center;
+    color: blue;
+
+}
+.register-form{
+  
+   width: 400px;
+   height: 350px;
+   border: 1px solid red;
+   margin: 50px auto;
+   background-color: rgb(73, 231, 197);
+
+}
+.GrpBtn{
+    margin-left: 50px;
+}
+.Btn{
+    text-align: center;
+}
